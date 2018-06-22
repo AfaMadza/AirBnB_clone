@@ -9,5 +9,5 @@ header.logo {
     align-items:center;
     justify-content:left;
     padding-left: 20px;
-    content:url(images/logo.png)
+    content:url(.../images/logo.png)
 }
