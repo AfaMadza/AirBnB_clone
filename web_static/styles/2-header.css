@@ -5,9 +5,7 @@ header {
     border-bottom:1px solid #CCCCCC
 }
 header .logo {
-    display:flex;
-    align-items:center;
-    justify-content:left;
-    padding-left: 20px;
     background: url("../images/logo.png") no-repeat;
+    left: 20px;
+    height:100%
 }
