@@ -4,10 +4,10 @@ header {
     width:100%;
     border-bottom:1px solid #CCCCCC
 }
-header.logo {
+header .logo {
     display:flex;
     align-items:center;
     justify-content:left;
     padding-left: 20px;
-    background: src="/images/logo.png";
+    background: url("../images/logo.png") no-repeat;
 }
