@@ -7,9 +7,9 @@ footer {
     bottom:0;
     display:flex;
     justify-content:center;
-    align-items:center
+    align-items:center;
 }
 
 footer.p {
-    color:Black
+    color:black;
 }
