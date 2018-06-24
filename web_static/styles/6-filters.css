@@ -23,10 +23,13 @@ button:hover {
     opacity:0.9;
 }
 .filters div {
-    position: relative;
-    display: inline-block;
-    height: 100%;
-    width: 25%;
+    display: inline-grid;
+}
+.filters h2 {
+    margin-left:15%;
+    font-weight:600;
+    margin-bottom:0;
+    margin-top:0;
 }
 .filters h3 {
     font-weight: 600;
@@ -56,18 +59,18 @@ button:hover {
     visibility: hidden;
     padding-bottom: 25px;
 }
-.locations .popover {
-    margin-top: 1%;
-}
 .amenities .popover {
     margin-top: 1%;
     margin-left: -5px;
     padding: 20px 0;
 }
+.locations .popover {
+    margin-top: 1%;
+}
 .popover ul {
     list-style-type: none;
 }
-.locations:hover .popover,
-.amenities:hover .popover {
+.amenities:hover .popover,
+.locations:hover .popover {
     visibility: visible;
 }
