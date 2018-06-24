@@ -49,25 +49,25 @@ button:hover {
     width:25%;
 }
 .popover {
-    background-color:#FAFAFA;
+    background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
-    border-radius:4px;
-    width:100%;
-    visibility:hidden;
-    padding-bottom:25px;
+    border-radius: 4px;
+    width: 100%;
+    visibility: hidden;
+    padding-bottom: 25px;
 }
 .locations .popover {
-    margin-top:1%;
+    margin-top: 1%;
 }
 .amenities .popover {
-    margin-top:1%;
+    margin-top: 1%;
     margin-left: -5px;
     padding: 20px 0;
 }
 .popover ul {
-    list-style-type:none;
+    list-style-type: none;
 }
 .locations:hover .popover,
 .amenities:hover .popover {
-    visibility:visible;
+    visibility: visible;
 }
