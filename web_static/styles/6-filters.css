@@ -62,7 +62,7 @@ button:hover {
 .amenities .popover {
     margin-top:1%;
     margin-left: -5px;
-    padding: 20px 0px;
+    padding: 20px 0;
 }
 .popover ul {
     list-style-type:none;
