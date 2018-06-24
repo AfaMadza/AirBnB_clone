@@ -55,10 +55,14 @@ button:hover {
     border: 1px solid #DDDDDD;
     background: #FAFAFA;
     border-radius: 4px;
-    padding-bottom: 25px;
+    padding: 0;
+    margin: -1%;
+    position: absolute;
 }
 .popover ul {
     list-style-type: none;
+    line-height: 20px;
+    list-style: none;
 }
 .amenities:hover .popover,
 .locations:hover .popover {
