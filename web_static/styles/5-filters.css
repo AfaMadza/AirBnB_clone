@@ -23,23 +23,22 @@ button:hover {
     opacity:0.9;
 }
 .filters div {
-    position:relative;
-    display:inline-block;
-    height:100%;
-    width:25%;
-    font-weight:600;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
 }
 .filters h3 {
-    font-weight:600;
-    margin-bottom:0;
-    margin-left:15%;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-left: 15%;
 }
 .filters h4 {
-    font-weight:400;
-    font-size:14px;
-    margin-top:0;
-    margin-left:15%;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 0;
+    margin-left: 15%;
 }
 .locations {
-    border-right:1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
 }
